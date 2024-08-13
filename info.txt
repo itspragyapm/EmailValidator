@@ -1,0 +1,15 @@
+resources that are used for this project is :
+
+CDN Icons: https://cdnjs.com/libraries/remixicon
+Fonts: https://fonts.google.com/
+Icons: https://remixicon.com/
+JS Functions: https://github.com/bedimcode/responsi...
+ScrollReveal: https://scrollrevealjs.org/
+Netlify: https://www.netlify.com/
+Original Images: https://www.freepik.es/
+https://cssgradient.io/
+https://9elements.github.io/fancy-border-radius/
+https://loading.io/
+https://smtpjs.com/
+https://app.elasticemail.com/marketing/
+https://sweetalert2.github.io/

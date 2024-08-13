@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+
+  <!-- <========Adding Google fonts ===========> -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Aclonica&family=Gupter:wght@400;500;700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+
+  <title>validate - Email Validator your Business</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+  <header>
+    <nav>
+      <div class="logo">iValidate</div>
+      <ul>
+        <li><a href="">Home</a></li>
+        <li><a href="">About us</a></li>
+        <li><a href="contact.html">Contact us</a></li>
+      <!-- shift +alt - to creat multiple cursors, shift + forward arror to select the text, end - to go at the end of that element, backward arrow- to go at the desired place and then ctrl + v   -->
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <div class="container">
+      <h1>Enter your email to validate </h1>
+      <form action="/script.js">
+        <fieldset>
+          <div class="form">
+          <label for="username">Enter your email ID :</label>
+          <input type="email" id="username" name="username" placeholder="Enter your emaild to validate" required>
+<br><br>
+          
+          <input type="submit" id = "submitbtn" class="btn" value="Submit">
+            </div>
+        </fieldset>
+      </form>
+    </div>
+    <div class="container">
+      <h2>Your results :</h2>
+      <div id = "resultCont">
+        
+      </div>
+    </div>
+  </main>
+  <footer>
+Copyright iValidate | All right reserved 
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
